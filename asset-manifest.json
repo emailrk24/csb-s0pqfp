@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://emailrk24.github.io/csb-s0pqfp/static/css/main.d59b4251.chunk.css",
+    "main.js": "https://emailrk24.github.io/csb-s0pqfp/static/js/main.78a43f99.chunk.js",
+    "main.js.map": "https://emailrk24.github.io/csb-s0pqfp/static/js/main.78a43f99.chunk.js.map",
+    "runtime-main.js": "https://emailrk24.github.io/csb-s0pqfp/static/js/runtime-main.972a5055.js",
+    "runtime-main.js.map": "https://emailrk24.github.io/csb-s0pqfp/static/js/runtime-main.972a5055.js.map",
+    "static/js/2.f31d8b81.chunk.js": "https://emailrk24.github.io/csb-s0pqfp/static/js/2.f31d8b81.chunk.js",
+    "static/js/2.f31d8b81.chunk.js.map": "https://emailrk24.github.io/csb-s0pqfp/static/js/2.f31d8b81.chunk.js.map",
+    "index.html": "https://emailrk24.github.io/csb-s0pqfp/index.html",
+    "static/css/main.d59b4251.chunk.css.map": "https://emailrk24.github.io/csb-s0pqfp/static/css/main.d59b4251.chunk.css.map",
+    "static/js/2.f31d8b81.chunk.js.LICENSE.txt": "https://emailrk24.github.io/csb-s0pqfp/static/js/2.f31d8b81.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.972a5055.js",
+    "static/js/2.f31d8b81.chunk.js",
+    "static/css/main.d59b4251.chunk.css",
+    "static/js/main.78a43f99.chunk.js"
+  ]
+}
